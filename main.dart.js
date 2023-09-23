@@ -41957,7 +41957,7 @@ $0(){this.a.d=this.b},
 $S:0}
 A.acz.prototype={
 $0(){var s=document.createElement("a")
-s.href="https://drive.google.com/uc?export=download&id=1UedhVQZXbUgmd1Vk-FqZ11FCbCFpHG7M"
+s.href="https://drive.google.com/uc?export=download&id=1lq-Cpm_jx2ZD0Mpi9jTwD-OkRWsgUuEB"
 s.download="resume"
 s.click()},
 $S:0}

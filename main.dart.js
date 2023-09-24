@@ -41759,7 +41759,7 @@ o=o>850
 if(o)q.push(A.cO("About Me",p,p,p,A.eh().$0().eL(B.l,$.aE().aO(22),B.O),p,p))
 if(o)q.push(B.hd)
 o=A.eO(p,p,B.w,B.lh,p,p,p,150*$.aE().grU(),p,p,p,p,4)
-q.push(A.dh(A.uC(A.eO(B.X,A.dZ(A.b([o,B.Kl,A.dh(new A.bP(B.aF,A.ol("Experienced Full-Stack Mobile Application Engineer with a robust track record of over 4+ years, specializing in developing efficient mobile applications across diverse industries. I have showcased exceptional leadership skills by effectively managing a small team of developers and seamlessly handling client communication. Through my expertise I consistently guided projects from their inception to successful completion, resulting in the delivery of high-quality software solutions. I bring demonstrated mastery in Android development (Native / Flutter) and backend development with Node.js.",n?A.aih().$0().ey(B.v,$.aE().aO(22)):A.eh().$0().eL(B.v,$.aE().aO(10),B.O),B.aZ),p),1)],r),B.a4,B.H,B.I),B.w,p,p,p,p,p,p,B.Bx,p,p,p),p,p,B.wf),1))
+q.push(A.dh(A.uC(A.eO(B.X,A.dZ(A.b([o,B.Kl,A.dh(new A.bP(B.aF,A.ol("Experienced Full-Stack Mobile Application Engineer with a robust track record of over 4+ years, specializing in developing efficient mobile applications across diverse industries. I have showcased exceptional leadership skills by effectively managing a small team of developers and seamlessly handling client communication. Through my expertise i consistently guided projects from their inception to successful completion, resulting in the delivery of high-quality software solutions. i bring demonstrated mastery in Android development ( Native/ Flutter ) and backend development with Node.js.",n?A.aih().$0().ey(B.v,$.aE().aO(22)):A.eh().$0().eL(B.v,$.aE().aO(10),B.O),B.aZ),p),1)],r),B.a4,B.H,B.I),B.w,p,p,p,p,p,p,B.Bx,p,p,p),p,p,B.wf),1))
 return new A.bP(s,A.dZ(q,B.b2,B.H,B.I),p)}}
 A.uU.prototype={
 ag(){var s=null,r=t.N
@@ -41768,26 +41768,26 @@ A.Mv.prototype={
 l(){this.f.l()
 this.e.l()
 this.aK()},
-K(a){var s,r=this,q=null,p="Full Name",o="Your Budget",n="Message ",m=A.b_(a,B.J,t.w).w,l=A.kj("^[a-zA-Z0-9.a-zA-Z0-9.!#$%&'*+-/=?^_`{|}~]+@[a-zA-Z0-9]+\\.[a-zA-Z]+",!0,!1),k=t.p,j=A.b([],k)
-m=m.a.a
-s=m>800
-if(s)j.push(A.dZ(A.b([A.dh(A.jW(r.e,B.bC,p,q,new A.aaP(r,a),new A.aaQ(r),B.bB,new A.aaR()),1),B.xa,A.dh(A.jW(r.f,B.xs,"Email",q,new A.ab1(r,a),new A.abb(r),B.bB,new A.abc(l)),1)],k),B.a4,B.H,B.I))
-m=m<800
-if(m)j.push(A.jW(r.e,B.bC,p,q,new A.abd(r,a),new A.abe(r),B.bB,new A.abf()))
-if(m)j.push(B.ei)
-if(m)j.push(A.jW(r.f,B.xs,"Email",q,new A.abg(r,a),new A.abh(r),B.bB,new A.aaS(l)))
-j.push(B.Ko)
-if(s)j.push(A.dZ(A.b([A.dh(A.jW(r.r,B.bC,"Phone",q,new A.aaT(r,a),new A.aaU(r),B.bB,new A.aaV()),1),B.xa,A.dh(A.jW(r.w,B.bC,o,q,new A.aaW(r,a),new A.aaX(r),B.bB,new A.aaY()),1)],k),B.a4,B.H,B.I))
-if(m)j.push(A.jW(r.r,B.bC,"Phone",q,new A.aaZ(r,a),new A.ab_(r),B.bB,new A.ab0()))
-if(m)j.push(B.ei)
-if(m)j.push(A.jW(r.w,B.bC,o,q,new A.ab2(r,a),new A.ab3(r),B.bB,new A.ab4()))
-j.push(B.ei)
-if(s)j.push(A.dZ(A.b([A.dh(A.jW(r.x,B.bC,n,5,q,new A.ab5(r),B.em,new A.ab6()),1),B.Km,A.dh(new A.yN(new A.ab7(r),q),1)],k),B.lr,B.H,B.I))
-if(m)j.push(A.jW(r.x,B.bC,n,5,q,new A.ab8(r),B.em,new A.ab9()))
-if(m)j.push(B.ei)
-if(m)j.push(new A.yN(new A.aba(r),q))
-m=A.il(j,B.a4,B.H,B.I)
-return new A.vN(m,B.kx,r.d)}}
+K(a){var s,r=this,q=null,p="Your Budget",o="Message ",n=A.b_(a,B.J,t.w).w,m=A.kj("^[a-zA-Z0-9.a-zA-Z0-9.!#$%&'*+-/=?^_`{|}~]+@[a-zA-Z0-9]+\\.[a-zA-Z]+",!0,!1),l=t.p,k=A.b([],l)
+n=n.a.a
+s=n>800
+if(s)k.push(A.dZ(A.b([A.dh(A.jW(r.e,B.bC,"Full Name",q,new A.aaP(r,a),new A.aaQ(r),B.bB,new A.aaR()),1),B.xa,A.dh(A.jW(r.f,B.xs,"Email",q,new A.ab1(r,a),new A.abb(r),B.bB,new A.abc(m)),1)],l),B.a4,B.H,B.I))
+n=n<800
+if(n)k.push(A.jW(r.e,B.bC,"Name",q,new A.abd(r,a),new A.abe(r),B.bB,new A.abf()))
+if(n)k.push(B.ei)
+if(n)k.push(A.jW(r.f,B.xs,"Email",q,new A.abg(r,a),new A.abh(r),B.bB,new A.aaS(m)))
+k.push(B.Ko)
+if(s)k.push(A.dZ(A.b([A.dh(A.jW(r.r,B.bC,"Phone",q,new A.aaT(r,a),new A.aaU(r),B.bB,new A.aaV()),1),B.xa,A.dh(A.jW(r.w,B.bC,p,q,new A.aaW(r,a),new A.aaX(r),B.bB,new A.aaY()),1)],l),B.a4,B.H,B.I))
+if(n)k.push(A.jW(r.r,B.bC,"Phone",q,new A.aaZ(r,a),new A.ab_(r),B.bB,new A.ab0()))
+if(n)k.push(B.ei)
+if(n)k.push(A.jW(r.w,B.bC,p,q,new A.ab2(r,a),new A.ab3(r),B.bB,new A.ab4()))
+k.push(B.ei)
+if(s)k.push(A.dZ(A.b([A.dh(A.jW(r.x,B.bC,o,5,q,new A.ab5(r),B.em,new A.ab6()),1),B.Km,A.dh(new A.yN(new A.ab7(r),q),1)],l),B.lr,B.H,B.I))
+if(n)k.push(A.jW(r.x,B.bC,o,5,q,new A.ab8(r),B.em,new A.ab9()))
+if(n)k.push(B.ei)
+if(n)k.push(new A.yN(new A.aba(r),q))
+n=A.il(k,B.a4,B.H,B.I)
+return new A.vN(n,B.kx,r.d)}}
 A.aaP.prototype={
 $1(a){A.jT(this.b).jX(this.a.f)},
 $S:26}
